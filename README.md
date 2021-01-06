@@ -15,3 +15,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-sguar&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-sguar&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-sguar&logo=Slack&logoColor=white)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ywo311)](https://solved.ac/ywo311) 
+
+[기술블로그]https://ywkim95.tistory.com/
