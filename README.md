@@ -17,4 +17,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ywo311)](https://solved.ac/ywo311) 
 
-[기술블로그]https://ywkim95.tistory.com/
+[tech blog]https://ywkim95.tistory.com/
